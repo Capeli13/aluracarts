@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Gamer',
+    'O que é Redstone',
+    'Redstone é um item do jogo minecraft e é usada como form ade energia para a automação de farms'
 )
